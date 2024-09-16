@@ -15,9 +15,9 @@ function draw() {
 }
 
 if (mouseX = xpos) {
-  let xpos = mouseX
+  let xpos = mouseX + 10
 } if (mouseY = ypos) {
-  let ypos = mouseY
+  let ypos = mouseY + 10
 }
 
 function mousePressed() {
