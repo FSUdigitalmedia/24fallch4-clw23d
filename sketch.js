@@ -19,3 +19,8 @@ if (mouseX = xpos) {
 } if (mousey = ypos) {
   let ypos = mouseY
 }
+
+function mousePressed() {
+  xpos = random(50,350)
+  ypos = random(50,350)
+}
